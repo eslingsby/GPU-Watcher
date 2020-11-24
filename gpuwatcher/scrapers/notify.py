@@ -1,2 +1,0 @@
-def notify():
-	pass
